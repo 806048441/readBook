@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "4.2&#x81ea;&#x5b9a;&#x4e49;&#x89c6;&#x56fe;&#x8fc7;&#x6e21;&#x52a8;&#x753b;&#xff08;iOS7&#x4e4b;&#x540e;&#xff09;/FirstVC.m"
+            timestampString = "577635149.422199"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "-navigationController:animationControllerForOperation:fromViewController:toViewController:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "4.2&#x81ea;&#x5b9a;&#x4e49;&#x89c6;&#x56fe;&#x8fc7;&#x6e21;&#x52a8;&#x753b;&#xff08;iOS7&#x4e4b;&#x540e;&#xff09;/SecondVC.m"
+            timestampString = "577635149.422307"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "-animationControllerForPresentedController:presentingController:sourceController:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "4.2&#x81ea;&#x5b9a;&#x4e49;&#x89c6;&#x56fe;&#x8fc7;&#x6e21;&#x52a8;&#x753b;&#xff08;iOS7&#x4e4b;&#x540e;&#xff09;/SecondVC.m"
+            timestampString = "577635149.422383"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "-animationControllerForDismissedController:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "4.2&#x81ea;&#x5b9a;&#x4e49;&#x89c6;&#x56fe;&#x8fc7;&#x6e21;&#x52a8;&#x753b;&#xff08;iOS7&#x4e4b;&#x540e;&#xff09;/SlideTransitionAnimator.m"
+            timestampString = "577635149.422456"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "-animateTransition:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "4.2&#x81ea;&#x5b9a;&#x4e49;&#x89c6;&#x56fe;&#x8fc7;&#x6e21;&#x52a8;&#x753b;&#xff08;iOS7&#x4e4b;&#x540e;&#xff09;/SlideTransitionAnimator.m"
+            timestampString = "577635162.050251"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "-animateTransition:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
